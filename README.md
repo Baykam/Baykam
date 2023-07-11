@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 -📫 How to reach me: linkedIn - Baymuhammet Gummanow
 -😄 Pronouns: He/His
 -⚡ Fun fact: enjoying any kind of sports
+
