@@ -1,12 +1,4 @@
-
-Here are some ideas to get you started:
-
--🔭 I’m currently working on Microservices                                          
--🌱 I’m currently learning Flutter Clean Architectures TDD,DDD                                
--👯 I’m looking to collaborate on Telegram                                
--🤔 I’m looking for help with Cloud Developing                                
--💬 Ask me about Flutter or Cyber Security                                 
--📫 How to reach me: linkedIn - Baymuhammet Gummanow                             
--😄 Pronouns: He/His                                                               
--⚡ Fun fact: enjoying any kind of sports                                     
-
+Full-Stack Developer · Go & Flutter
+Building real-time systems | Logistics & Fintech
+Kafka · Redis · WebSocket · PostgreSQL
+Open to remote opportunities
